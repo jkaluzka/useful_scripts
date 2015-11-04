@@ -1,0 +1,3 @@
+"""
+Payments analyzer module.
+"""

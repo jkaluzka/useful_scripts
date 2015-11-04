@@ -1,0 +1,191 @@
+<?xml version = '1.0' encoding = 'ISO-8859-2'?>
+<WYCIAGI data_od="2015-10-01" data_do="2015-10-01" rachunek="12345678901234567890123456"
+         opis="Rachunek" waluta="PLN" nazwa="NAZWA FIRMY">
+    <WYCIAG data="2015-10-01" rachunek="12345678901234567890123456" opis="Rachunek" waluta="PLN"
+            nazwa="NAZWA FIRMY">
+        <SALDO_OTWARCIA>
+            <KWOTA>100.0</KWOTA>
+            <STRONA>C</STRONA>
+        </SALDO_OTWARCIA>
+        <OPERACJA>
+            <POZYCJA>516160573</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew wewnêtrzny</OPIS>
+            <BANK>15401030</BANK>
+            <RACHUNEK>09876543210987654321098765</RACHUNEK>
+            <KWOTA>20.10</KWOTA>
+            <STRONA>D</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>operacja1</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3></NAZWA3>
+            <NAZWA4></NAZWA4>
+            <TRESC1>przes sr</TRESC1>
+            <TRESC2></TRESC2>
+            <TRESC3></TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>10.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1>DAROWIZNA NA CELE KULTURY FIZYCZNEJ</TRESC1>
+            <TRESC2>* (IMIE NAZWISKO SP007 - 1F)</TRESC2>
+            <TRESC3>WRZESIEN/PA¬DZIERNIK</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>20.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1>DAROWIZNA NA CELE KULTURY FIZYCZNEJ</TRESC1>
+            <TRESC2>* (imie nazwisko SP007 - 1F)</TRESC2>
+            <TRESC3>WRZESIEN/PA¬DZIERNIK</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>10.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1></TRESC1>
+            <TRESC2>IMIE NAZWISKO</TRESC2>
+            <TRESC3></TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>30.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1></TRESC1>
+            <TRESC2>* (imiê nazwisko SP007 - 1F)</TRESC2>
+            <TRESC3>ww</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>40.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1></TRESC1>
+            <TRESC2>* (Imiê jakie¶ nazwisko SP007 - 1F)</TRESC2>
+            <TRESC3>ww</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>50.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1></TRESC1>
+            <TRESC2>* (Imiê jakie¶ nazwiskooooo SP007 - 1F)</TRESC2>
+            <TRESC3>ww</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>60.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1></TRESC1>
+            <TRESC2>* (Imiê jakie¶ nazwis SP007 - 1F)</TRESC2>
+            <TRESC3>ww</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>70.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1></TRESC1>
+            <TRESC2>* Imiê jakie¶ naz</TRESC2>
+            <TRESC3>ww</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+        <OPERACJA>
+            <POZYCJA>516177960</POZYCJA>
+            <DATA_WALUTY>2015-10-01</DATA_WALUTY>
+            <OPIS>Przelew zewnêtrzny</OPIS>
+            <BANK>11402004</BANK>
+            <RACHUNEK>12121212121212121212121212</RACHUNEK>
+            <KWOTA>40.00</KWOTA>
+            <STRONA>C</STRONA>
+            <WALUTA>PLN</WALUTA>
+            <NAZWA1>dane osoby wplacajacej</NAZWA1>
+            <NAZWA2></NAZWA2>
+            <NAZWA3>ADRES</NAZWA3>
+            <NAZWA4>00-210 Szamotu³y</NAZWA4>
+            <TRESC1></TRESC1>
+            <TRESC2>* (IMIÊ NAZWISKO)</TRESC2>
+            <TRESC3>ww</TRESC3>
+            <TRESC4></TRESC4>
+        </OPERACJA>
+    </WYCIAG>
+</WYCIAGI>

@@ -38,6 +38,7 @@ htmlcov/
 .tox/
 .coverage
 .coverage.*
+payment_analyzer/.coveragerc
 .cache
 nosetests.xml
 coverage.xml
@@ -55,3 +56,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# unwanted dirs
+.idea
+payment_analyzer/input/*
+payment_analyzer/output/*

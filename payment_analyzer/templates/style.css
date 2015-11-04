@@ -1,0 +1,23 @@
+.red {
+    color: red;
+}
+
+#primary_result td,
+.primary_result td {
+    color: blue;
+    padding: 3px;
+}
+
+table {
+    padding: 3px;
+}
+
+#secondary_result td {
+    color: red;
+}
+
+table .header {
+    font-weight: bold;
+    text-align: center;
+    margin-left: auto;
+}

@@ -1,0 +1,7 @@
+lxml
+pep8
+pylint
+pylama
+nose
+coverage
+mock
