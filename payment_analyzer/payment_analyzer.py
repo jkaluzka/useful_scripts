@@ -220,6 +220,7 @@ class PaymentAnalyzer:
 
         :return: sorted
         """
+        self.lookup_persons = []
         for person in open(localization):
             self.lookup_persons.append(
                 tuple(person.decode('utf8').lower().split())
@@ -231,11 +232,11 @@ class PaymentAnalyzer:
         for directory in self.lookup_dirs:
             path = os.path.join(utils.INPUT, directory)
             for root, dirs, file_names in os.walk(path):
-                files = [
+                directory_files = [
                     os.path.join(root, f)
                     for f in file_names if f.endswith('txt')
                 ]
-                files.extend(files)
+                files.extend(directory_files)
         return files
 
     def search_for_payments(self):

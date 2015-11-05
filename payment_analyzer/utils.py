@@ -12,6 +12,6 @@ ACCOUNT = 'RACHUNEK'
 OPERATION_CONTENT = 'TRESC'
 STATEMENT_DATE = 'DATA_WALUTY'
 
-INPUT_FILES = ['09_2015.xml', '22_10_2015.xml']
+INPUT_FILES = ['09_2015.xml', '10_2015.xml', '05_11_2015.xml']
 LOOKUP_FILES = ['iga', 'natalia', 'michal']
 STYLE_FILE = "style.css"

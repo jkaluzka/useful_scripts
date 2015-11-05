@@ -86,6 +86,27 @@ class TestPaymentAnalyzer(TestCase):
         expected = sorted(expected, key=lambda x: x[1])
         self.assertListEqual(response, expected)
 
+    def test_read_lookup_file_multiple_persons(self):
+        response = self.client.read_lookup_file('tests/test_dir/persons')
+        expected = [
+            ('imie', 'nazwisko'),
+            (u'imię', 'nazwisko'),
+            ('stefan', u'brzęczyszczykiewicz'),
+            ('stefan', u'brzęczyszczyk'),
+            ('marian', 'kowalski'),
+            ('witold', u'wójcik'),
+            ('witek', u'wójcik'),
+            ('witek', u'wojcik'),
+        ]
+        expected = sorted(expected, key=lambda x: x[1])
+        self.assertListEqual(response, expected)
+
+        response = self.client.read_lookup_file('tests/test_dir/dir_1/file_1.txt')
+        expected = [
+            ('pierwsz', 'osoba'),
+        ]
+        self.assertListEqual(response, expected)
+
     def test_get_files_with_names(self):
         utils.INPUT = 'tests/test_dir'
         self.client.lookup_dirs = ['dir_1', 'dir_2']
